@@ -14,3 +14,19 @@ a:visited{
 a:hover{
     color: #F18701;
 }
+
+.title{
+    width: 100%;
+    text-align: center;
+}
+
+.image{
+    height: auto;
+    width: 500px;
+}
+
+#page-container{
+    width: 80%;
+    margin: auto;
+}
+
